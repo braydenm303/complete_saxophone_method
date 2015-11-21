@@ -1,0 +1,354 @@
+\documentclass{book}
+
+\usepackage[bookmarks]{hyperref}
+
+\usepackage{appendix}
+
+\usepackage{makeidx}
+\makeindex
+
+\begin{document}
+  \frontmatter
+
+  \chapter{Introduction}
+
+  \tableofcontents
+
+  \mainmatter
+
+  \chapter{Getting Started}
+    \section{Choosing a Saxophone}
+    \section{Tuning}
+    \section{Reeds}
+      \index{Reeds}
+      Because the reed is what produces the tone on a saxophone, it is one of the most important parts of a saxophone.
+
+  \chapter{Basic Techniqes}
+    \section*{C}
+    \addcontentsline{toc}{section}{C}
+      \subsection*{Grade 1}
+        \addcontentsline{toc}{subsection}{Grade 1}
+        \subsubsection*{C Major Scale}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            <<
+              \new Staff {
+                \relative c'' {
+                  c1 d e f g a b c \bar "|."
+                }
+              }
+              \new Staff {
+                \relative c' {
+                  c1 d e f g a b c \bar "|."
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+      \subsection*{Grade 2}
+      \addcontentsline{toc}{subsection}{Grade 2}
+        \subsubsection*{Daily Exercise No. 1}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            \header {
+              opus = "H. Klose"
+            }
+            <<
+              \new Staff {
+                \relative c' {
+                  \time 2/2
+                  c8( d e f g a b c)
+                  d( c b a g f e d)
+                  c( d e f g a b c)
+                  d( c b a g f e d)
+                  e( f g a b c d e)
+                  f( e d c b a g f)
+                  
+                  g( a b c d e f g)
+                  a( g f e d c b a)
+                  b( c d e f g a b)
+                  c( b a g f e d c)
+                  c2 c,
+                  c'8( b a g f e d c)
+                  d( e f g a b c d)
+                  
+                  e( d c b a g f e)
+                  f( g a b c d e f)
+                  g( f e d c b a g)
+                  a( b c d e f g a)
+                  b( a g f e d c b)
+                  c( d e f g a b c)
+                  
+                  c( b a g f e d c)
+                  c2 c,
+                  c''8( b a g f e d c)
+                  b( c d e f g gs a)
+                  b( a g f e d c b)
+                  a( b c d e f fs g)
+                  a( g f e d c b a)
+                  
+                  g( a b c d e f fs)
+                  g( f e d c b a g)
+                  f( g a b c cs d e)
+                  f( e d c b a g f)
+                  e( f g a b c d ds)
+                  e( d c b a g f e)
+                  
+                  d( e f g a b c cs)
+                  d( c b a g f e d)
+                  c( d e f g a b c)
+                  c( g d g c,2)
+                  c'8( d e f g a b c)
+                  b( a g f e d c b)
+                  a( b c d e f g a)
+                  
+                  g( f e d c b a g)
+                  f( g a b c d e f)
+                  e( d c b a g f e)
+                  d( e f g a b c d)
+                  c( b a g f e d c)
+                  c( d e f g a b c)
+                  c,2 r \bar "|."
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+    \section*{G}
+    \addcontentsline{toc}{section}{G}
+      \subsection*{Grade 1}
+      \addcontentsline{toc}{subsection}{Grade 1}
+        \subsubsection*{G Major Scale (Accidentals)}
+        \begin{lilypond}[]
+          \language "english"
+          \new Staff {
+            \relative c'' {
+              g1 a b c d e fs g
+              \bar "|."
+            }
+          }
+        \end{lilypond}
+        \subsubsection*{G Major Scale (Key Signature)}
+        \begin{lilypond}
+          \language "english"
+          \new Staff {
+            \relative c'' {
+              \key g \major
+              g1 a b c d e fs g
+              \bar "|."
+            }
+          }
+        \end{lilypond}
+      \subsection*{Grade 2}
+      \addcontentsline{toc}{subsection}{Grade 2}
+        \subsubsection*{Temple Hill: A Cork Reel}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            \header {
+              opus = "Petrie no. 901"
+            }
+            <<
+              \new Staff {
+                \relative c' {
+                  \key g \major
+                  e8 a a b e4 d8 b
+                  e4 d8 b g a b g
+                  c8 a a b e d e fs
+
+                  g8 e d b b a a4 \bar ":|."
+                  e'8 a a4 b a8 g
+                  e8 g d g e g d g
+
+                  e8 a a4 b a8 g
+                  e8 g d b b a a d
+                  e8 a a4 b a8 g
+
+                  e8 g d g e g d g
+                  b8 g a fs g e fs d
+                  e16 fs g8 d b b a a4 \bar "|."
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+        \subsubsection*{Molly on the Shore: A Cork Reel}
+        \begin{lilypond}
+          \language "english"
+          \score {
+            \header {
+              opus = "Petrie No. 902"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  \key g \major
+                  \partial 8 b16 a
+                  g8 e d b' c a b a
+                  \tuplet 3/2 { g( a g) } b g a g e fs
+                  g e d b' c a b a
+                  \tuplet 3/2 { g( a g) } b g a4 g8 \bar ":|." d'8
+                  
+                  
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+        \subsubsection*{The Ace and Deuce of Pipering}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            \header {
+              opus = "Petrie no. 1416"
+            }
+            \new Staff {
+              \relative c'' {
+                \key g \major
+                \partial 4 d8 c
+                b4 c8 a b4 c8 a
+                b4 c8 a b4 a8 g
+                d'4 e8 c d4 e8 c
+                d4 e8 c d c b a
+                e'4 f8 d e d c a
+
+                d4 e8 c d c b a
+                b8 g c a b4 a8 g
+                fs8 g a b c b c a
+                g4 g'8 e fs d c a
+                fs8 g a b c b c a
+                a8 g g g g4 fs8 g
+
+                a8 g g g a4 \bar "||" \noBreak a8. g16
+                a4 f' e f
+                d8 e f d e d c a
+                g4 g' fs g
+                d4 g8 a g fs d c
+                a4 f' e f
+
+                d8 e f d f4. g8
+                a8 g g g g fs d c
+                g8 g c a b4 a8 g
+                g4 g'8 e fs d c a
+                fs8 g a b c b c a
+                a8 g g g g4 fs8 g
+                a8 g g g g4
+                \bar "|."
+              }
+            }
+          }
+        \end{lilypond}
+    \section*{A}
+    \addcontentsline{toc}{section}{A}
+      \subsection*{Grade 3}
+      \addcontentsline{toc}{subsection}{Grade 3}
+        \subsubsection*{Adieu Ye Young Men of Claudy Green}
+        \begin{lilypond}
+          \language "english"
+          \score {
+            \header {
+              opus = "Petrie No. 757"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  \key a \major
+                  \time 3/4
+                  \partial 4. a32 b cs d e16 fs gs fs
+                  e8. d16 cs8 d e16 d cs b
+                  cs8. a16 gs8 e gs16 a b cs
+                  d8. cs16 b8 cs16 b a8 a
+                  a4. cs16 d e fs gs fs
+
+                  e8. d16 e8 d e16 d cs b
+                  cs8. a16 gs8 e gs16 a b cs
+                  e8 d16 cs b8 cs16. b32 a8 a
+                  a4. \bar ":|." cs16 d e8 gs
+                  a8. fs16 gs8 e fs gs
+                  e4 d8 cs16 d e8 gs
+
+                  a8. fs16 gs fs e d cs8 a
+                  b4. a32 b cs d e16 fs gs fs
+                  e8. d16 cs8 d e16 d cs b
+                  cs8 a gs e gs16 a b cs
+                  d8. cs16 b8 cs16. b32 a8 a
+                  a4. \bar "|."
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+    \section*{E $\flat$}
+    \addcontentsline{toc}{section}{E $\flat$}
+      \subsection*{Grade 3}
+      \addcontentsline{toc}{subsection}{Grade 3}
+        \subsubsection*{Adieu, My Lovely Peggy}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            \header {
+              opus = "Petrie No. 430"
+            }
+            \new Staff {
+              \relative c' {
+                \key ef \major
+                \time 2/4
+                \partial 8 ef8
+                ef8. g16 bf8 c
+                ef8 ef ef g,
+                af g16 f ef8 g
+
+                bf8. g16 f8 g
+                bf16 g f ef ef8 g16 bf
+                ef8. d16 \grace d16 \afterGrace c8.[ bf8.[ \afterGrace bf16] c16]
+                g8. ef16 f8. ef16 ef4 \bar "||"
+
+                \afterGrace bf'8 bf4 c16 d
+                \afterGrace ef8 f4. ef8 f \afterGrace ef8 ef8
+                d8 c bf8. c16
+                g8 f ef g
+                bf8 g f8. g16
+
+                bf16 g f ef ef8 g16 bf
+                ef8. d16 \grace d16 \afterGrace c8.[ bf8.[ \afterGrace bf16] c16]
+                g8 ef f8. ef16
+                ef4. \bar "|."
+              }
+            }
+          }
+        \end{lilypond}
+
+  \chapter{Advanced Techniques}
+    \section{Growling}
+    \section{Altissimo}
+
+  \chapter{Improvisation}
+
+  \chapter{Performance Pieces}
+    \section{Solo Pieces}
+    \section{Accompanied Solo Pieces}
+    \section{Duets}
+    \section{Quartets}
+
+  \begin{appendices}
+
+    \chapter{Reading Music}
+
+    \chapter{Music Theory}
+
+    \chapter{Fingerings}
+      \section{Normal Range Fingerings}
+      \section{Altissimo Fingerings}
+      \section{Multiphonics Fingerings}
+
+    \chapter{Scales}
+      \section{Major Scales}
+      \section{Minor Scales}
+
+  \end{appendices}
+
+  \printindex
+
+\end{document}
