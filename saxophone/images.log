@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=latex 2015.11.17)  21 NOV 2015 05:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=latex 2015.11.17)  21 NOV 2015 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -179,7 +179,7 @@ Package: inputenc 2014/04/30 v1.2b Input encoding file
 )
 \sizebox=\box27
 \lthtmlwrite=\write4
-No file images.aux.
+(./images.aux)
 \openout1 = `images.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -208,11 +208,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 126.
 LaTeX Info: Redefining \pageref on input line 126.
 LaTeX Info: Redefining \nameref on input line 126.
+(./images.out) (./images.out)
 \@outlinefile=\write5
 \openout5 = `images.out'.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 latex2htmlLength hsize=349.0pt
@@ -237,395 +235,79 @@ latex2htmlLength oddsidemargin=35.0pt
 
 latex2htmlLength evensidemargin=89.0pt
 
-File: 93/lily-c3f88607-1.eps Graphic file (type eps)
-<93/lily-c3f88607-1.eps>
-l2hSize :tex2html_wrap337:86.3225pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-1.eps Graphic file (type eps)
+<63/lily-51c207f7-1.eps>
+l2hSize :tex2html_wrap388:9.03374pt::0.0pt::349.0pt.
 [1
 
 
 
 ]
-File: ba/lily-62f3a9ed-1.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-1.eps>
-l2hSize :tex2html_wrap340:9.03374pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-2.eps Graphic file (type eps)
+<63/lily-51c207f7-2.eps>
+l2hSize :tex2html_wrap389:49.18375pt::0.0pt::349.0pt.
 [2
 
 
 ]
-File: ba/lily-62f3a9ed-2.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-2.eps>
-l2hSize :tex2html_wrap341:42.15749pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-3.eps Graphic file (type eps)
+<63/lily-51c207f7-3.eps>
+l2hSize :tex2html_wrap390:40.15pt::0.0pt::349.0pt.
 [3
 
 
 ]
-File: ba/lily-62f3a9ed-3.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-3.eps>
-l2hSize :tex2html_wrap342:39.14624pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-4.eps Graphic file (type eps)
+<63/lily-51c207f7-4.eps>
+l2hSize :tex2html_wrap391:44.16498pt::0.0pt::349.0pt.
 [4
 
 
 ]
-File: ba/lily-62f3a9ed-4.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-4.eps>
-l2hSize :tex2html_wrap343:43.16122pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-5.eps Graphic file (type eps)
+<63/lily-51c207f7-5.eps>
+l2hSize :tex2html_wrap392:40.15pt::0.0pt::349.0pt.
 [5
 
 
 ]
-File: ba/lily-62f3a9ed-5.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-5.eps>
-l2hSize :tex2html_wrap344:50.18748pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-6.eps Graphic file (type eps)
+<63/lily-51c207f7-6.eps>
+l2hSize :tex2html_wrap393:40.15pt::0.0pt::349.0pt.
 [6
 
 
 ]
-File: ba/lily-62f3a9ed-6.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-6.eps>
-l2hSize :tex2html_wrap345:40.15pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-7.eps Graphic file (type eps)
+<63/lily-51c207f7-7.eps>
+l2hSize :tex2html_wrap394:41.15375pt::0.0pt::349.0pt.
 [7
 
 
 ]
-File: ba/lily-62f3a9ed-7.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-7.eps>
-l2hSize :tex2html_wrap346:43.16122pt::0.0pt::349.0pt.
+File: 63/lily-51c207f7-8.eps Graphic file (type eps)
+<63/lily-51c207f7-8.eps>
+l2hSize :tex2html_wrap395:40.15pt::0.0pt::349.0pt.
 [8
 
 
 ]
-File: ba/lily-62f3a9ed-8.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-8.eps>
-l2hSize :tex2html_wrap347:46.17249pt::0.0pt::349.0pt.
-[9
-
-
-]
-File: ba/lily-62f3a9ed-9.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-9.eps>
-l2hSize :tex2html_wrap348:43.16122pt::0.0pt::349.0pt.
-[10
-
-
-]
-File: ba/lily-62f3a9ed-10.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-10.eps>
-l2hSize :tex2html_wrap349:42.15749pt::0.0pt::349.0pt.
-[11
-
-
-]
-File: ba/lily-62f3a9ed-11.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-11.eps>
-l2hSize :tex2html_wrap350:40.15pt::0.0pt::349.0pt.
-[12
-
-
-]
-File: ba/lily-62f3a9ed-12.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-12.eps>
-l2hSize :tex2html_wrap351:40.15pt::0.0pt::349.0pt.
-[13
-
-
-]
-File: ba/lily-62f3a9ed-13.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-13.eps>
-l2hSize :tex2html_wrap352:50.18748pt::0.0pt::349.0pt.
-[14
-
-
-]
-File: ba/lily-62f3a9ed-14.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-14.eps>
-l2hSize :tex2html_wrap353:43.16122pt::0.0pt::349.0pt.
-[15
-
-
-]
-File: ba/lily-62f3a9ed-15.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-15.eps>
-l2hSize :tex2html_wrap354:39.14624pt::0.0pt::349.0pt.
-[16
-
-
-]
-File: ba/lily-62f3a9ed-16.eps Graphic file (type eps)
-<ba/lily-62f3a9ed-16.eps>
-l2hSize :tex2html_wrap355:44.165pt::0.0pt::349.0pt.
-[17
-
-
-]
-File: 04/lily-27b9a431-1.eps Graphic file (type eps)
-<04/lily-27b9a431-1.eps>
-l2hSize :tex2html_wrap359:38.14249pt::0.0pt::349.0pt.
-[18
-
-
-]
-File: 86/lily-16caec13-1.eps Graphic file (type eps)
-<86/lily-16caec13-1.eps>
-l2hSize :tex2html_wrap361:38.14249pt::0.0pt::349.0pt.
-[19
-
-
-]
-File: 64/lily-a4d36519-1.eps Graphic file (type eps)
-<64/lily-a4d36519-1.eps>
-l2hSize :tex2html_wrap364:9.03374pt::0.0pt::349.0pt.
-[20
-
-
-]
-File: 64/lily-a4d36519-2.eps Graphic file (type eps)
-<64/lily-a4d36519-2.eps>
-l2hSize :tex2html_wrap365:38.14249pt::0.0pt::349.0pt.
-[21
-
-
-]
-File: 64/lily-a4d36519-3.eps Graphic file (type eps)
-<64/lily-a4d36519-3.eps>
-l2hSize :tex2html_wrap366:39.14624pt::0.0pt::349.0pt.
-[22
-
-
-]
-File: 64/lily-a4d36519-4.eps Graphic file (type eps)
-<64/lily-a4d36519-4.eps>
-l2hSize :tex2html_wrap367:40.15pt::0.0pt::349.0pt.
-[23
-
-
-]
-File: 64/lily-a4d36519-5.eps Graphic file (type eps)
-<64/lily-a4d36519-5.eps>
-l2hSize :tex2html_wrap368:40.15pt::0.0pt::349.0pt.
-[24
-
-
-]
-File: 38/lily-c18ae63d-1.eps Graphic file (type eps)
-<38/lily-c18ae63d-1.eps>
-l2hSize :tex2html_wrap370:9.03374pt::0.0pt::349.0pt.
-[25
-
-
-]
-File: 38/lily-c18ae63d-2.eps Graphic file (type eps)
-<38/lily-c18ae63d-2.eps>
-l2hSize :tex2html_wrap371:39.14624pt::0.0pt::349.0pt.
-[26
-
-
-]
-File: 38/lily-c18ae63d-3.eps Graphic file (type eps)
-<38/lily-c18ae63d-3.eps>
-l2hSize :tex2html_wrap372:40.15pt::0.0pt::349.0pt.
-[27
-
-
-]
-File: 7c/lily-79db51c2-1.eps Graphic file (type eps)
-<7c/lily-79db51c2-1.eps>
-l2hSize :tex2html_wrap374:9.03374pt::0.0pt::349.0pt.
-[28
-
-
-]
-File: 7c/lily-79db51c2-2.eps Graphic file (type eps)
-<7c/lily-79db51c2-2.eps>
-l2hSize :tex2html_wrap375:38.14249pt::0.0pt::349.0pt.
-[29
-
-
-]
-File: 7c/lily-79db51c2-3.eps Graphic file (type eps)
-<7c/lily-79db51c2-3.eps>
-l2hSize :tex2html_wrap376:39.14624pt::0.0pt::349.0pt.
-[30
-
-
-]
-File: 7c/lily-79db51c2-4.eps Graphic file (type eps)
-<7c/lily-79db51c2-4.eps>
-l2hSize :tex2html_wrap377:40.15pt::0.0pt::349.0pt.
-[31
-
-
-]
-File: 7c/lily-79db51c2-5.eps Graphic file (type eps)
-<7c/lily-79db51c2-5.eps>
-l2hSize :tex2html_wrap378:40.15pt::0.0pt::349.0pt.
-[32
-
-
-]
-File: 7c/lily-79db51c2-6.eps Graphic file (type eps)
-<7c/lily-79db51c2-6.eps>
-l2hSize :tex2html_wrap379:40.15pt::0.0pt::349.0pt.
-[33
-
-
-]
-File: 7c/lily-79db51c2-7.eps Graphic file (type eps)
-<7c/lily-79db51c2-7.eps>
-l2hSize :tex2html_wrap380:40.15pt::0.0pt::349.0pt.
-[34
-
-
-]
-File: 7c/lily-79db51c2-8.eps Graphic file (type eps)
-<7c/lily-79db51c2-8.eps>
-l2hSize :tex2html_wrap381:40.15pt::0.0pt::349.0pt.
-[35
-
-
-]
-File: 7c/lily-79db51c2-9.eps Graphic file (type eps)
-<7c/lily-79db51c2-9.eps>
-l2hSize :tex2html_wrap382:39.14624pt::0.0pt::349.0pt.
-[36
-
-
-]
-File: da/lily-e1c6fba5-1.eps Graphic file (type eps)
-<da/lily-e1c6fba5-1.eps>
-l2hSize :tex2html_wrap386:9.03374pt::0.0pt::349.0pt.
-[37
-
-
-]
-File: da/lily-e1c6fba5-2.eps Graphic file (type eps)
-<da/lily-e1c6fba5-2.eps>
-l2hSize :tex2html_wrap387:41.15375pt::0.0pt::349.0pt.
-[38
-
-
-]
-File: da/lily-e1c6fba5-3.eps Graphic file (type eps)
-<da/lily-e1c6fba5-3.eps>
-l2hSize :tex2html_wrap388:40.15pt::0.0pt::349.0pt.
-[39
-
-
-]
-File: da/lily-e1c6fba5-4.eps Graphic file (type eps)
-<da/lily-e1c6fba5-4.eps>
-l2hSize :tex2html_wrap389:39.14624pt::0.0pt::349.0pt.
-[40
-
-
-]
-File: da/lily-e1c6fba5-5.eps Graphic file (type eps)
-<da/lily-e1c6fba5-5.eps>
-l2hSize :tex2html_wrap390:41.15375pt::0.0pt::349.0pt.
-[41
-
-
-]
-File: da/lily-e1c6fba5-6.eps Graphic file (type eps)
-<da/lily-e1c6fba5-6.eps>
-l2hSize :tex2html_wrap391:40.15pt::0.0pt::349.0pt.
-[42
-
-
-]
-File: da/lily-e1c6fba5-7.eps Graphic file (type eps)
-<da/lily-e1c6fba5-7.eps>
-l2hSize :tex2html_wrap392:40.15pt::0.0pt::349.0pt.
-[43
-
-
-]
-File: da/lily-e1c6fba5-8.eps Graphic file (type eps)
-<da/lily-e1c6fba5-8.eps>
-l2hSize :tex2html_wrap393:42.15749pt::0.0pt::349.0pt.
-[44
-
-
-]
-File: da/lily-e1c6fba5-9.eps Graphic file (type eps)
-<da/lily-e1c6fba5-9.eps>
-l2hSize :tex2html_wrap394:40.15pt::0.0pt::349.0pt.
-[45
-
-
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 426.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 426.
-l2hSize :tex2html_wrap_inline241:7.5pt::0.0pt::4.38893pt.
-[46
-
-
-]
-File: b4/lily-baaec67f-1.eps Graphic file (type eps)
-<b4/lily-baaec67f-1.eps>
-l2hSize :tex2html_wrap400:9.03374pt::0.0pt::349.0pt.
-[47
-
-
-]
-File: b4/lily-baaec67f-2.eps Graphic file (type eps)
-<b4/lily-baaec67f-2.eps>
-l2hSize :tex2html_wrap401:39.14622pt::0.0pt::349.0pt.
-[48
-
-
-]
-File: b4/lily-baaec67f-3.eps Graphic file (type eps)
-<b4/lily-baaec67f-3.eps>
-l2hSize :tex2html_wrap402:40.15pt::0.0pt::349.0pt.
-[49
-
-
-]
-File: b4/lily-baaec67f-4.eps Graphic file (type eps)
-<b4/lily-baaec67f-4.eps>
-l2hSize :tex2html_wrap403:40.15pt::0.0pt::349.0pt.
-[50
-
-
-]
-File: b4/lily-baaec67f-5.eps Graphic file (type eps)
-<b4/lily-baaec67f-5.eps>
-l2hSize :tex2html_wrap404:40.15pt::0.0pt::349.0pt.
-[51
-
-
-]
-File: b4/lily-baaec67f-6.eps Graphic file (type eps)
-<b4/lily-baaec67f-6.eps>
-l2hSize :tex2html_wrap405:41.15375pt::0.0pt::349.0pt.
-[52
-
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 485.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 485.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
 (./images.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 485.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 485.
-
-Package rerunfilecheck Warning: File `images.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `images.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 485.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package rerunfilecheck Info: File `images.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 4982 strings out of 493106
- 74810 string characters out of 6137097
- 152391 words of memory out of 5000000
- 8393 multiletter control sequences out of 15000+600000
+ 4892 strings out of 493106
+ 73047 string characters out of 6137097
+ 152506 words of memory out of 5000000
+ 8348 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,5n,21p,171b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on images.dvi (52 pages, 33844 bytes).
+Output written on images.dvi (8 pages, 6552 bytes).
