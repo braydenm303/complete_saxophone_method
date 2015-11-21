@@ -156,7 +156,7 @@
                   \key g \major
                   e8 a a b e4 d8 b
                   e4 d8 b g a b g
-                  c8 a a b e d e fs
+                  e8 a a b e d e fs
 
                   g8 e d b b a a4 \bar ":|."
                   e'8 a a4 b a8 g
@@ -185,13 +185,33 @@
               \new Staff {
                 \relative c'' {
                   \key g \major
-                  \partial 8 b16 a
+                  \partial 8 b16 \mark "Allegro" a
                   g8 e d b' c a b a
                   \tuplet 3/2 { g( a g) } b g a g e fs
                   g e d b' c a b a
-                  \tuplet 3/2 { g( a g) } b g a4 g8 \bar ":|." d'8
-                  
-                  
+                  \tuplet 3/2 { g( a g) } b g a4 g8 \bar ":|."
+
+                  d'8
+                  g fs g d e c d b
+                  \tuplet 3/2 {g( a g)} b g a g e fs'
+                  g fs g d e c d b
+                  \tuplet 3/2 {g( a g)} b g a4 g8 fs'
+
+                  g fs g d e c d b
+                  \tuplet 3/2 {g( a g)} b g a g e fs
+                  g b a c b d g e
+                  d b g b a4 g8( \bar "||"
+
+                  b)
+                  c c c a b b b a
+                  \tuplet 3/2 {g( a g)} b g a g e b'
+                  c c c a b b b a
+                  \tuplet 3/2 {g( a g)} b g a4 g8. b16
+
+                  c c c8 c a b16 b b8 b a
+                  \tuplet 3/2 {g( a g)} b g a g d a'
+                  g e d b' c a b a
+                  \tuplet 3/2 {g( a g)} b g a4 g \bar "|."
                 }
               }
             >>

@@ -7,7 +7,7 @@ BROWSER=firefox
 LILYBOOK_PDF=lilypond-book --output=$(OUTDIR) --pdf $(FILE).lytex
 LILYBOOK_HTML=lilypond-book --output=$(WEBDIR) $(FILE).lytex
 PDF=cd $(OUTDIR) && pdflatex $(FILE)
-HTML=cd $(WEBDIR) && latex2html $(FILE)
+HTML=cd $(WEBDIR) && latex2html -split 5 -title "Complete Saxophone Method" -noinfo $(FILE)
 INDEX=cd $(OUTDIR) && makeindex $(FILE)
 PREVIEW=$(VIEWER) $(OUTDIR)/$(FILE).pdf &
 
