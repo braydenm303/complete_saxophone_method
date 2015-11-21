@@ -1,1 +1,3 @@
-# complete_saxophone_method
+# The Complete Saxophone Method
+
+By Brayden Morris
