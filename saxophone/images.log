@@ -1,0 +1,631 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=latex 2015.11.17)  21 NOV 2015 05:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./images.tex
+(./images.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (default): hdvips.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks15
+\pdf@box=\box26
+\pdf@toks=\toks16
+\pdf@defaulttoks=\toks17
+\HyField@AnnotCount=\count96
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count99
+\c@@ppsavesec=\count100
+\c@@ppsaveapp=\count101
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `images.idx'.
+
+Writing index file images.idx
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 137.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+\sizebox=\box27
+\lthtmlwrite=\write4
+No file images.aux.
+\openout1 = `images.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 126.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count102
+)
+LaTeX Info: Redefining \ref on input line 126.
+LaTeX Info: Redefining \pageref on input line 126.
+LaTeX Info: Redefining \nameref on input line 126.
+\@outlinefile=\write5
+\openout5 = `images.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+latex2htmlLength hsize=349.0pt
+
+latex2htmlLength vsize=627.36243pt
+
+latex2htmlLength hoffset=0.0pt
+
+latex2htmlLength voffset=0.0pt
+
+latex2htmlLength topmargin=0.0pt
+
+latex2htmlLength topskip=0.00003pt
+
+latex2htmlLength headheight=0.0pt
+
+latex2htmlLength headsep=0.0pt
+
+latex2htmlLength parskip=0.0pt plus 1.0pt
+
+latex2htmlLength oddsidemargin=35.0pt
+
+latex2htmlLength evensidemargin=89.0pt
+
+File: 93/lily-c3f88607-1.eps Graphic file (type eps)
+<93/lily-c3f88607-1.eps>
+l2hSize :tex2html_wrap337:86.3225pt::0.0pt::349.0pt.
+[1
+
+
+
+]
+File: ba/lily-62f3a9ed-1.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-1.eps>
+l2hSize :tex2html_wrap340:9.03374pt::0.0pt::349.0pt.
+[2
+
+
+]
+File: ba/lily-62f3a9ed-2.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-2.eps>
+l2hSize :tex2html_wrap341:42.15749pt::0.0pt::349.0pt.
+[3
+
+
+]
+File: ba/lily-62f3a9ed-3.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-3.eps>
+l2hSize :tex2html_wrap342:39.14624pt::0.0pt::349.0pt.
+[4
+
+
+]
+File: ba/lily-62f3a9ed-4.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-4.eps>
+l2hSize :tex2html_wrap343:43.16122pt::0.0pt::349.0pt.
+[5
+
+
+]
+File: ba/lily-62f3a9ed-5.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-5.eps>
+l2hSize :tex2html_wrap344:50.18748pt::0.0pt::349.0pt.
+[6
+
+
+]
+File: ba/lily-62f3a9ed-6.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-6.eps>
+l2hSize :tex2html_wrap345:40.15pt::0.0pt::349.0pt.
+[7
+
+
+]
+File: ba/lily-62f3a9ed-7.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-7.eps>
+l2hSize :tex2html_wrap346:43.16122pt::0.0pt::349.0pt.
+[8
+
+
+]
+File: ba/lily-62f3a9ed-8.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-8.eps>
+l2hSize :tex2html_wrap347:46.17249pt::0.0pt::349.0pt.
+[9
+
+
+]
+File: ba/lily-62f3a9ed-9.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-9.eps>
+l2hSize :tex2html_wrap348:43.16122pt::0.0pt::349.0pt.
+[10
+
+
+]
+File: ba/lily-62f3a9ed-10.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-10.eps>
+l2hSize :tex2html_wrap349:42.15749pt::0.0pt::349.0pt.
+[11
+
+
+]
+File: ba/lily-62f3a9ed-11.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-11.eps>
+l2hSize :tex2html_wrap350:40.15pt::0.0pt::349.0pt.
+[12
+
+
+]
+File: ba/lily-62f3a9ed-12.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-12.eps>
+l2hSize :tex2html_wrap351:40.15pt::0.0pt::349.0pt.
+[13
+
+
+]
+File: ba/lily-62f3a9ed-13.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-13.eps>
+l2hSize :tex2html_wrap352:50.18748pt::0.0pt::349.0pt.
+[14
+
+
+]
+File: ba/lily-62f3a9ed-14.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-14.eps>
+l2hSize :tex2html_wrap353:43.16122pt::0.0pt::349.0pt.
+[15
+
+
+]
+File: ba/lily-62f3a9ed-15.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-15.eps>
+l2hSize :tex2html_wrap354:39.14624pt::0.0pt::349.0pt.
+[16
+
+
+]
+File: ba/lily-62f3a9ed-16.eps Graphic file (type eps)
+<ba/lily-62f3a9ed-16.eps>
+l2hSize :tex2html_wrap355:44.165pt::0.0pt::349.0pt.
+[17
+
+
+]
+File: 04/lily-27b9a431-1.eps Graphic file (type eps)
+<04/lily-27b9a431-1.eps>
+l2hSize :tex2html_wrap359:38.14249pt::0.0pt::349.0pt.
+[18
+
+
+]
+File: 86/lily-16caec13-1.eps Graphic file (type eps)
+<86/lily-16caec13-1.eps>
+l2hSize :tex2html_wrap361:38.14249pt::0.0pt::349.0pt.
+[19
+
+
+]
+File: 64/lily-a4d36519-1.eps Graphic file (type eps)
+<64/lily-a4d36519-1.eps>
+l2hSize :tex2html_wrap364:9.03374pt::0.0pt::349.0pt.
+[20
+
+
+]
+File: 64/lily-a4d36519-2.eps Graphic file (type eps)
+<64/lily-a4d36519-2.eps>
+l2hSize :tex2html_wrap365:38.14249pt::0.0pt::349.0pt.
+[21
+
+
+]
+File: 64/lily-a4d36519-3.eps Graphic file (type eps)
+<64/lily-a4d36519-3.eps>
+l2hSize :tex2html_wrap366:39.14624pt::0.0pt::349.0pt.
+[22
+
+
+]
+File: 64/lily-a4d36519-4.eps Graphic file (type eps)
+<64/lily-a4d36519-4.eps>
+l2hSize :tex2html_wrap367:40.15pt::0.0pt::349.0pt.
+[23
+
+
+]
+File: 64/lily-a4d36519-5.eps Graphic file (type eps)
+<64/lily-a4d36519-5.eps>
+l2hSize :tex2html_wrap368:40.15pt::0.0pt::349.0pt.
+[24
+
+
+]
+File: 38/lily-c18ae63d-1.eps Graphic file (type eps)
+<38/lily-c18ae63d-1.eps>
+l2hSize :tex2html_wrap370:9.03374pt::0.0pt::349.0pt.
+[25
+
+
+]
+File: 38/lily-c18ae63d-2.eps Graphic file (type eps)
+<38/lily-c18ae63d-2.eps>
+l2hSize :tex2html_wrap371:39.14624pt::0.0pt::349.0pt.
+[26
+
+
+]
+File: 38/lily-c18ae63d-3.eps Graphic file (type eps)
+<38/lily-c18ae63d-3.eps>
+l2hSize :tex2html_wrap372:40.15pt::0.0pt::349.0pt.
+[27
+
+
+]
+File: 7c/lily-79db51c2-1.eps Graphic file (type eps)
+<7c/lily-79db51c2-1.eps>
+l2hSize :tex2html_wrap374:9.03374pt::0.0pt::349.0pt.
+[28
+
+
+]
+File: 7c/lily-79db51c2-2.eps Graphic file (type eps)
+<7c/lily-79db51c2-2.eps>
+l2hSize :tex2html_wrap375:38.14249pt::0.0pt::349.0pt.
+[29
+
+
+]
+File: 7c/lily-79db51c2-3.eps Graphic file (type eps)
+<7c/lily-79db51c2-3.eps>
+l2hSize :tex2html_wrap376:39.14624pt::0.0pt::349.0pt.
+[30
+
+
+]
+File: 7c/lily-79db51c2-4.eps Graphic file (type eps)
+<7c/lily-79db51c2-4.eps>
+l2hSize :tex2html_wrap377:40.15pt::0.0pt::349.0pt.
+[31
+
+
+]
+File: 7c/lily-79db51c2-5.eps Graphic file (type eps)
+<7c/lily-79db51c2-5.eps>
+l2hSize :tex2html_wrap378:40.15pt::0.0pt::349.0pt.
+[32
+
+
+]
+File: 7c/lily-79db51c2-6.eps Graphic file (type eps)
+<7c/lily-79db51c2-6.eps>
+l2hSize :tex2html_wrap379:40.15pt::0.0pt::349.0pt.
+[33
+
+
+]
+File: 7c/lily-79db51c2-7.eps Graphic file (type eps)
+<7c/lily-79db51c2-7.eps>
+l2hSize :tex2html_wrap380:40.15pt::0.0pt::349.0pt.
+[34
+
+
+]
+File: 7c/lily-79db51c2-8.eps Graphic file (type eps)
+<7c/lily-79db51c2-8.eps>
+l2hSize :tex2html_wrap381:40.15pt::0.0pt::349.0pt.
+[35
+
+
+]
+File: 7c/lily-79db51c2-9.eps Graphic file (type eps)
+<7c/lily-79db51c2-9.eps>
+l2hSize :tex2html_wrap382:39.14624pt::0.0pt::349.0pt.
+[36
+
+
+]
+File: da/lily-e1c6fba5-1.eps Graphic file (type eps)
+<da/lily-e1c6fba5-1.eps>
+l2hSize :tex2html_wrap386:9.03374pt::0.0pt::349.0pt.
+[37
+
+
+]
+File: da/lily-e1c6fba5-2.eps Graphic file (type eps)
+<da/lily-e1c6fba5-2.eps>
+l2hSize :tex2html_wrap387:41.15375pt::0.0pt::349.0pt.
+[38
+
+
+]
+File: da/lily-e1c6fba5-3.eps Graphic file (type eps)
+<da/lily-e1c6fba5-3.eps>
+l2hSize :tex2html_wrap388:40.15pt::0.0pt::349.0pt.
+[39
+
+
+]
+File: da/lily-e1c6fba5-4.eps Graphic file (type eps)
+<da/lily-e1c6fba5-4.eps>
+l2hSize :tex2html_wrap389:39.14624pt::0.0pt::349.0pt.
+[40
+
+
+]
+File: da/lily-e1c6fba5-5.eps Graphic file (type eps)
+<da/lily-e1c6fba5-5.eps>
+l2hSize :tex2html_wrap390:41.15375pt::0.0pt::349.0pt.
+[41
+
+
+]
+File: da/lily-e1c6fba5-6.eps Graphic file (type eps)
+<da/lily-e1c6fba5-6.eps>
+l2hSize :tex2html_wrap391:40.15pt::0.0pt::349.0pt.
+[42
+
+
+]
+File: da/lily-e1c6fba5-7.eps Graphic file (type eps)
+<da/lily-e1c6fba5-7.eps>
+l2hSize :tex2html_wrap392:40.15pt::0.0pt::349.0pt.
+[43
+
+
+]
+File: da/lily-e1c6fba5-8.eps Graphic file (type eps)
+<da/lily-e1c6fba5-8.eps>
+l2hSize :tex2html_wrap393:42.15749pt::0.0pt::349.0pt.
+[44
+
+
+]
+File: da/lily-e1c6fba5-9.eps Graphic file (type eps)
+<da/lily-e1c6fba5-9.eps>
+l2hSize :tex2html_wrap394:40.15pt::0.0pt::349.0pt.
+[45
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 426.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 426.
+l2hSize :tex2html_wrap_inline241:7.5pt::0.0pt::4.38893pt.
+[46
+
+
+]
+File: b4/lily-baaec67f-1.eps Graphic file (type eps)
+<b4/lily-baaec67f-1.eps>
+l2hSize :tex2html_wrap400:9.03374pt::0.0pt::349.0pt.
+[47
+
+
+]
+File: b4/lily-baaec67f-2.eps Graphic file (type eps)
+<b4/lily-baaec67f-2.eps>
+l2hSize :tex2html_wrap401:39.14622pt::0.0pt::349.0pt.
+[48
+
+
+]
+File: b4/lily-baaec67f-3.eps Graphic file (type eps)
+<b4/lily-baaec67f-3.eps>
+l2hSize :tex2html_wrap402:40.15pt::0.0pt::349.0pt.
+[49
+
+
+]
+File: b4/lily-baaec67f-4.eps Graphic file (type eps)
+<b4/lily-baaec67f-4.eps>
+l2hSize :tex2html_wrap403:40.15pt::0.0pt::349.0pt.
+[50
+
+
+]
+File: b4/lily-baaec67f-5.eps Graphic file (type eps)
+<b4/lily-baaec67f-5.eps>
+l2hSize :tex2html_wrap404:40.15pt::0.0pt::349.0pt.
+[51
+
+
+]
+File: b4/lily-baaec67f-6.eps Graphic file (type eps)
+<b4/lily-baaec67f-6.eps>
+l2hSize :tex2html_wrap405:41.15375pt::0.0pt::349.0pt.
+[52
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 485.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 485.
+(./images.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 485.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 485.
+
+Package rerunfilecheck Warning: File `images.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `images.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 485.
+ ) 
+Here is how much of TeX's memory you used:
+ 4982 strings out of 493106
+ 74810 string characters out of 6137097
+ 152391 words of memory out of 5000000
+ 8393 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,5n,21p,171b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on images.dvi (52 pages, 33844 bytes).
