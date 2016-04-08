@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=latex 2015.11.17)  21 NOV 2015 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=latex 2015.11.17)  8 APR 2016 02:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -235,79 +235,88 @@ latex2htmlLength oddsidemargin=35.0pt
 
 latex2htmlLength evensidemargin=89.0pt
 
-File: 63/lily-51c207f7-1.eps Graphic file (type eps)
-<63/lily-51c207f7-1.eps>
-l2hSize :tex2html_wrap388:9.03374pt::0.0pt::349.0pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 151.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 151.
+l2hSize :tex2html_wrap_inline215:7.44444pt::7.44444pt::4.38893pt.
 [1
 
 
 
 ]
-File: 63/lily-51c207f7-2.eps Graphic file (type eps)
-<63/lily-51c207f7-2.eps>
-l2hSize :tex2html_wrap389:49.18375pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-1.eps Graphic file (type eps)
+<f0/lily-7ddac503-1.eps>
+l2hSize :tex2html_wrap433:11.04124pt::0.0pt::349.0pt.
 [2
 
 
 ]
-File: 63/lily-51c207f7-3.eps Graphic file (type eps)
-<63/lily-51c207f7-3.eps>
-l2hSize :tex2html_wrap390:40.15pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-2.eps Graphic file (type eps)
+<f0/lily-7ddac503-2.eps>
+l2hSize :tex2html_wrap434:86.3225pt::0.0pt::349.0pt.
 [3
 
 
 ]
-File: 63/lily-51c207f7-4.eps Graphic file (type eps)
-<63/lily-51c207f7-4.eps>
-l2hSize :tex2html_wrap391:44.16498pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-3.eps Graphic file (type eps)
+<f0/lily-7ddac503-3.eps>
+l2hSize :tex2html_wrap435:11.04124pt::0.0pt::349.0pt.
 [4
 
 
 ]
-File: 63/lily-51c207f7-5.eps Graphic file (type eps)
-<63/lily-51c207f7-5.eps>
-l2hSize :tex2html_wrap392:40.15pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-4.eps Graphic file (type eps)
+<f0/lily-7ddac503-4.eps>
+l2hSize :tex2html_wrap436:38.14249pt::0.0pt::349.0pt.
 [5
 
 
 ]
-File: 63/lily-51c207f7-6.eps Graphic file (type eps)
-<63/lily-51c207f7-6.eps>
-l2hSize :tex2html_wrap393:40.15pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-5.eps Graphic file (type eps)
+<f0/lily-7ddac503-5.eps>
+l2hSize :tex2html_wrap437:11.04124pt::0.0pt::349.0pt.
 [6
 
 
 ]
-File: 63/lily-51c207f7-7.eps Graphic file (type eps)
-<63/lily-51c207f7-7.eps>
-l2hSize :tex2html_wrap394:41.15375pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-6.eps Graphic file (type eps)
+<f0/lily-7ddac503-6.eps>
+l2hSize :tex2html_wrap438:88.32999pt::0.0pt::349.0pt.
 [7
 
 
 ]
-File: 63/lily-51c207f7-8.eps Graphic file (type eps)
-<63/lily-51c207f7-8.eps>
-l2hSize :tex2html_wrap395:40.15pt::0.0pt::349.0pt.
+File: f0/lily-7ddac503-7.eps Graphic file (type eps)
+<f0/lily-7ddac503-7.eps>
+l2hSize :tex2html_wrap439:11.04124pt::0.0pt::349.0pt.
 [8
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+File: f0/lily-7ddac503-8.eps Graphic file (type eps)
+<f0/lily-7ddac503-8.eps>
+l2hSize :tex2html_wrap440:88.32999pt::0.0pt::349.0pt.
+[9
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
 (./images.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `images.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 4892 strings out of 493106
- 73047 string characters out of 6137097
+ 4894 strings out of 493106
+ 73075 string characters out of 6137097
  152506 words of memory out of 5000000
- 8348 multiletter control sequences out of 15000+600000
+ 8350 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,21p,171b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,21p,171b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on images.dvi (8 pages, 6552 bytes).
+Output written on images.dvi (9 pages, 7176 bytes).

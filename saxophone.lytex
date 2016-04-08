@@ -9,23 +9,27 @@
 
 \begin{document}
   \frontmatter
+  
+  \title{The Complete Saxophone Method}
+  \author{Brayden Morris}
+  
+  \maketitle
 
-  \chapter{Introduction}
+%   \chapter{Introduction}
 
   \tableofcontents
 
   \mainmatter
 
-  \chapter{Getting Started}
-    \section{Choosing a Saxophone}
-    \section{Tuning}
-    \section{Reeds}
-      \index{Reeds}
-      Because the reed is what produces the tone on a saxophone, it is one of the most important parts of a saxophone.
+%   \chapter{Getting Started}
+%     \section{Choosing a Saxophone}
+%     \section{Tuning}
+%     \section{Reeds}
+%       \index{Reeds}
 
   \chapter{Basic Techniqes}
-    \section*{C}
-    \addcontentsline{toc}{section}{C}
+    \section*{CM/Am}
+    \addcontentsline{toc}{section}{CM/Am}
       \subsection*{Grade 1}
         \addcontentsline{toc}{subsection}{Grade 1}
         \subsubsection*{C Major Scale}
@@ -116,8 +120,8 @@
             >>
           }
         \end{lilypond}
-    \section*{G}
-    \addcontentsline{toc}{section}{G}
+    \section*{GM/Em}
+    \addcontentsline{toc}{section}{GM/Em}
       \subsection*{Grade 1}
       \addcontentsline{toc}{subsection}{Grade 1}
         \subsubsection*{G Major Scale (Accidentals)}
@@ -260,8 +264,8 @@
             }
           }
         \end{lilypond}
-    \section*{A}
-    \addcontentsline{toc}{section}{A}
+    \section*{AM/F$\sharp$m}
+    \addcontentsline{toc}{section}{AM/F$\sharp$m}
       \subsection*{Grade 3}
       \addcontentsline{toc}{subsection}{Grade 3}
         \subsubsection*{Adieu Ye Young Men of Claudy Green}
@@ -300,8 +304,8 @@
             >>
           }
         \end{lilypond}
-    \section*{E $\flat$}
-    \addcontentsline{toc}{section}{E $\flat$}
+    \section*{E$\flat$/Cm}
+    \addcontentsline{toc}{section}{E$\flat$/Cm}
       \subsection*{Grade 3}
       \addcontentsline{toc}{subsection}{Grade 3}
         \subsubsection*{Adieu, My Lovely Peggy}
@@ -340,32 +344,121 @@
           }
         \end{lilypond}
 
-  \chapter{Advanced Techniques}
-    \section{Growling}
-    \section{Altissimo}
+%   \chapter{Music Styles}
+%     \section{Classical}
+%     \section{Jazz}
+%       \subsection{Swing}
+%       \subsection{Bebop}
 
-  \chapter{Improvisation}
+%   \chapter{Advanced Techniques}
+%     \section{Growling}
+%     \section{Altissimo}
 
-  \chapter{Performance Pieces}
-    \section{Solo Pieces}
-    \section{Accompanied Solo Pieces}
-    \section{Duets}
-    \section{Quartets}
+%   \chapter{Improvisation}
+
+%   \chapter{Performance Pieces}
+%     \section{Solo Pieces}
+%     \section{Accompanied Solo Pieces}
+%     \section{Duets}
+%     \section{Quartets}
 
   \begin{appendices}
 
-    \chapter{Reading Music}
+%     \chapter{Reading Music}
 
-    \chapter{Music Theory}
+%     \chapter{Music Theory}
+%       \section{Sound}
+%         \subsection{Pitch}
+%         \subsection{Overtones and Harmonics}
 
-    \chapter{Fingerings}
-      \section{Normal Range Fingerings}
-      \section{Altissimo Fingerings}
-      \section{Multiphonics Fingerings}
+%     \chapter{Fingerings}
+%       \section{Normal Range Fingerings}
+%       \section{Altissimo Fingerings}
+%       \section{Multiphonics Fingerings}
+%       \section{Overtones Chart}
 
     \chapter{Scales}
       \section{Major Scales}
-      \section{Minor Scales}
+        \begin{lilypond}[]
+          \language "english"
+          \score {
+            \header {
+              piece = "C Major"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  c1 d e f g a b c
+                }
+              }
+              \new Staff {
+                \relative c' {
+                  c1 d e f g a b c
+                }
+              }
+            >>
+          }
+          \score {
+            \header {
+              piece = "G Major"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  \key g \major
+                  g1 a b c d e fs g
+                }
+              }
+            >>
+          }
+          \score {
+            \header {
+              piece = "D Major"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  \key d \major
+                  d1 e fs g a b cs d
+                }
+              }
+              \new Staff {
+                \relative c' {
+                  \key d \major
+                  d1 e fs g a b cs d
+                }
+              }
+            >>
+          }
+          \score {
+            \header {
+              piece = "A Major"
+            }
+            <<
+              \new Staff {
+                \relative c'' {
+                  \key a \major
+                  a b cs d e fs gs a
+                }
+              }
+              \new Staff {
+                \relative c' {
+                  \key a \major
+                  a^"(Bari. only)" b cs d e fs gs a
+                }
+              }
+            >>
+          }
+        \end{lilypond}
+%       \section{Minor Scales}
+%       \section{Modal Scales}
+%         \subsection{Ionian Scales}
+%         \subsection{Dorian Scales}
+%         \subsection{Phrygian Scales}
+%         \subsection{Lydian Scales}
+%         \subsection{Mixolydian Scales}
+%         \subsection{Aeolian Scales}
+%         \subsection{Locrian Scales}
 
   \end{appendices}
 
